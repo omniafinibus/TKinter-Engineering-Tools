@@ -1,0 +1,6 @@
+import os
+
+PROJECT_NAME = "tkinter_tools"
+MAIN_DIRECTORY = os.path.join("ENTER_DIRECTORY", PROJECT_NAME)
+VENV_DIRECTORY = os.path.join("ENTER_DIRECTORY", ".venv")
+PROJECT_DIRECTORY = os.path.join(MAIN_DIRECTORY, PROJECT_NAME)
