@@ -1,6 +1,7 @@
-# tkinter tools
+# TKinter-Engineering-Tools
 
 A collection of useful methods to configure tkinter and ttk widgets with.
+With a focus on engineering inputs.
 It also adds several custom widgets to make developing technical GUI's easier
 
 ## Authors
